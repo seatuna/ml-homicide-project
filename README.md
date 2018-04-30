@@ -3,3 +3,5 @@ This was my final project for CSCI E-29: Python for Data Science. K-Nearest Neig
 
 The dataset was provided by the Murder Accountability Project, posted publicly on Kaggle
 Dataset: https://www.kaggle.com/murderaccountability/homicide-reports
+
+Youtube link: https://youtu.be/o4mBfEsJbvo
